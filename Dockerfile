@@ -1,3 +1,3 @@
-FROM hyeonwoong/vggface:latest
+FROM hyeonwoong/vggface
 
 EXPOSE 8501 
